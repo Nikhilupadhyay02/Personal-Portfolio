@@ -1,0 +1,30 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/JavaScript.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/Java.png"
+  },
+  {
+    "title": "Leadership",
+    "imageSrc": "skills/Leadership.png"
+  },
+  {
+    "title": "Generative AI",
+    "imageSrc": "skills/Generative.png"
+  }
+]

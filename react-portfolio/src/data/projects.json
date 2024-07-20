@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Movie Search App",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a web application for searching movies using an external API",
+      "skills": ["Html", "Css", "JavaScript"],
+      "demo": "https://mov-search-app.netlify.app",
+      "source": "https://github.com/Nikhilupadhyay02/Basic-projects/tree/main/movie%20search%20app"
+    },
+    {
+      "title": "Sudoku Solver",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a graphical user interface (GUI) application for solving Sudoku puzzles",
+      "skills": ["Java", "Swing", "AWT" ],
+     "demo": "https://www.example.com",
+      "source": "https://github.com/Nikhilupadhyay02/PRODIGY_SD_04.github.io/blob/main/SudokuSolverGUI.java"
+    },
+    {
+      "title": "Basic Banking System",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a web application for simulating basic banking operations.  ",
+      "skills": ["Html", "css","Bootstrap","Javascript", "PHP","MySql"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Nikhilupadhyay02/BASICBANKINGSYSTEM.github.io/tree/main"
+    }
+  ]

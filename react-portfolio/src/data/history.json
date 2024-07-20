@@ -1,0 +1,29 @@
+[
+    {
+      "role": "General Secretary, Entire Campus",
+      "organisation": "BRHCET",
+      "startDate": "Sept, 2023",
+      "endDate": "Present",
+      "experiences": ["Led and collaborated with 12 department leads from diverse disciplines (Pharmacy, Engineering, Ayurveda, Architecture, Physiotherapy,Nursing)", "Played a key role in meetings with department Board Members, Principals, and Dean"],
+      "imageSrc": "skills/br harne.jpeg"
+    },
+    {
+      "role": "Software Development Intern",
+      "organisation": "Prodigy Infotech",
+      "startDate": "Sep, 2023",
+      "endDate": "oct, 2023",
+      "experiences": ["Completed multiple Task and build different Projects using Java Programming"],
+      "imageSrc": "skills/prodigy.jpeg"
+    },
+    {
+      "role": "Web Development Intern",
+      "organisation": "The sparks foundation",
+      "startDate": "May, 2023",
+      "endDate": "June, 2023",
+      "experiences": [
+        "Developed a web project using Html,css,Javascript, Bootstrap, and MySQL"
+        
+      ],
+      "imageSrc": "skills/Sparks.jpeg"
+    }
+  ]
